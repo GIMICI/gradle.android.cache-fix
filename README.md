@@ -1,5 +1,5 @@
 > _This repository is maintained by the Gradle Enterprise Solutions team, as one of several publicly available repositories:_
-> - _[Gradle Enterprise Build Configuration Samples][ge-build-config-samples]_
+> -  _[Gradle Enterprise Build Configuration Samples][ge-build-config-samples]_
 > - _[Gradle Enterprise Build Optimization Experiments][ge-build-optimization-experiments]_
 > - _[Gradle Enterprise Build Validation Scripts][ge-build-validation-scripts]_
 > - _[Gradle Enterprise Open Source Projects][ge-oss-projects]_
